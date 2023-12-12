@@ -16,7 +16,7 @@ To replicate the analysis or adapt it to your own research, follow these steps:
 1. Clone or download this repository to your local machine.
 2. Replace the placeholder API key in the script with your own credentials.
 3. Ensure you have R and the necessary packages (`rscopus`, `tidyverse`, `tm`, `hrbrthemes`, `tidytext`, etc.) installed.
-4. Run the `script.R` file in your R environment.
+4. Run the `codes.R` file in your R environment.
 
 ## Dependencies
 - R
