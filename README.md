@@ -29,8 +29,3 @@ To replicate the analysis or adapt it to your own research, follow these steps:
 ## Contributing
 We welcome contributions to improve the scripts or extend the analysis. Please feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgements
-This research was made possible by [Institution/Grant details, if applicable].
